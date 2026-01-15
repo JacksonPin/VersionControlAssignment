@@ -2,3 +2,5 @@ call of duty fishing game
 keylogger candy crush clone
 sharknado 2d side-scroller
 fortnite clone
+pineapple simulator
+music based game
